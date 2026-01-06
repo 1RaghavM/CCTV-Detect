@@ -1,4 +1,4 @@
-path: /Users/raghavmehta/Downloads/CCTV-Detect/laying_dataset
+path: C:\Users\raghavmehta\Downloads\CCTV-Detect\laying_dataset\images
 train: images
 val: images
 kpt_shape:
