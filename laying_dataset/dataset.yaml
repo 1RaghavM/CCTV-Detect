@@ -1,4 +1,4 @@
-path: .
+path: laying_dataset
 train: images
 val: images
 kpt_shape:
